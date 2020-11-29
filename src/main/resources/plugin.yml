@@ -1,0 +1,11 @@
+name: dupeplugin
+main: me.bait.plugins.dupe
+version: 2.1.5e
+api-version: 1.16
+author: io.github.izdabait
+description: Brings back the 1.12 dupe for servers that want to upgrade to better versions of minecraft
+commands:
+  dp:
+    description: Basic Dupe Plugin command.
+  dupeplugin:
+    description: Basic Dupe Plugin command.
