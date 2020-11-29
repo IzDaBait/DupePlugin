@@ -9,9 +9,12 @@ DM me to have your server added:
 Used by 8b8t.xyz (30-70 Concurrent Players)
 Used by realanarchy.online (0-15 Concurrent Players)
 
-.. _____________________ ..
+
+
 PLEASE NOTE: This code is public for transparency. 
   Modifying or Redistributing without directly pulling 
   to this branch or contacting may grant you a possible 
-  candidate for legal action.
-.. _____________________ ..
+  candidate for legal action. Only download this plugin
+  from the FREE spigot page below. 
+
+https://www.spigotmc.org/resources/dupeplugin-bring-back-the-1-12-dupe.81465/
