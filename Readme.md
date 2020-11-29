@@ -1,13 +1,5 @@
--- DupePlugin Sebastian Giheta 2019-2020
 .. _____________________ ..#
-
-  ________                         __________ .__                  .__         
-  \______ \   __ __ ______    ____ \______   \|  |   __ __   ____  |__|  ____  
-   |    |  \ |  |  \\____ \ _/ __ \ |     ___/|  |  |  |  \ / ___\ |  | /    \ 
-   |    `   \|  |  /|  |_> >\  ___/ |    |    |  |__|  |  // /_/  >|  ||   |  \
-  /_______  /|____/ |   __/  \___  >|____|    |____/|____/ \___  / |__||___|  /
-          \/        |__|         \/                       /_____/           \/ 
- DupePlugin by Sebastian Giheta, owner of 8b8t.xyz
+ DupePlugin by Sebastian Giheta, 2019-2020
 .. _____________________ ..#
 
 Does your server rely on dupes, but don't want to make it that easy? This plugin is perfect for you!
